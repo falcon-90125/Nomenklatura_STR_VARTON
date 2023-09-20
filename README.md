@@ -1,5 +1,4 @@
-# Nomenklatura_STR_VARTON
-См.review.jpg
+# Преобразование pdf-файла номенклатуры светотехнического расчёта в excel-файл с ценами:
+## парсинг nomenkl.pdf, преобразование в файл спецификации проекта с ценами из varton_price.xlsx
 
-Преобразование pdf-файла номенклатуры светотехнического расчёта в excel-файл с ценами:
-парсинг nomenkl.pdf, преобразование в файл спецификации проекта с ценами из varton_price.xlsx
+![review.jpg](https://github.com/falcon-90125/Nomenklatura_STR_VARTON/blob/main/review.jpg)
