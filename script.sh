@@ -1,3 +1,5 @@
+# Запустить в терминале командой ./script.sh
+
 # Создание виртуального окружения
 python -m venv env
 
@@ -7,4 +9,5 @@ env\Scripts\activate
 # Установка необходимых зависимостей
 pip install -r requirements.txt
 
-# запустить в терминале командой ./script.sh
+# Сохранить все пакеты из виртуального окружения в файл requirements.txt:
+# pip freeze > requirements.txt
