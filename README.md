@@ -1,1 +1,1 @@
-![review.jpg.jpg](review)
+![review.jpg](review)
