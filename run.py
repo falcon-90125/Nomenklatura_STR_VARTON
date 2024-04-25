@@ -36,7 +36,7 @@ def extract_text_from_pdf(pdf_path):
 
 # Конвернтируем pdf в txt
 nom_load = extract_text_from_pdf(pdf_path)
-# print(nom_load)
+print(nom_load)
 # # Функция очистки данных от мусора
 def append_vol(text_snippet):
 # На стыке страниц есть лишняя инфа, которая попадает в кол-во, проверяем - если она есть - отбрасываем.
