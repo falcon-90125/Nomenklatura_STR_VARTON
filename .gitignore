@@ -1,1 +1,3 @@
-varton_price.xlsx
+env/
+*pdf
+*xlsx
